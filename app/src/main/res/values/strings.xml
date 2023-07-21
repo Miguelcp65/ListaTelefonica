@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Phone List</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="keep_me_logged">Keep me Logged</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? Sign up!</string>
+    <string name="login">Login</string>
+    <string name="recover_your_password">Recover your Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="please_insert_all_required_fields">Please Insert all required fields</string>
+    <string name="passwords_don_t_match">Passwords don\'t match</string>
+    <string name="signed_up">Signed Up</string>
+    <string name="signup_error">Signup error</string>
+    <string name="login_error">Login error</string>
+    <string name="logout">Logout</string>
+    <string name="new_contact_name">Name</string>
+    <string name="new_contact_address">Address</string>
+    <string name="new_contact_phone">Phone</string>
+    <string name="new_contact_email">Email</string>
+    <string name="new_contact_save">Save</string>
+    <string name="new_contact_cancel">Cancel</string>
+    <string name="contact_detail_delete">Delete</string>
+    <string name="contact_detail_cancel">Cancel</string>
+    <string name="contact_detail_save">Save</string>
+    <string name="new_contact_new_contact">New Contact</string>
+    <string name="contact_image_select_an_image">Select an Image</string>
+    <string name="select_image_remove_image">Remove Image</string>
+    <string name="contact_detail_contact_detail">Contact Detail</string>
+    <string name="contact_detail_edit">Edit</string>
+    <string name="contact_detail_back">Back</string>
+</resources>
